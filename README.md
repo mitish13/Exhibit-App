@@ -16,3 +16,4 @@ This App is completely made up using react native framework by expo-cli, So it s
 2. For Authentication:- fireabase authentication (Email and password)
 3. To save the state of authentication: local storage
 4. To persist the favorites list : local storage
+
