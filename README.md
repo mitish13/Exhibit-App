@@ -9,7 +9,8 @@ This App entails 2 login facilties.
 
 ## Software stack:
 ### Frontend:
-This App is completely made up using react native framework by expo-cli, So it should work on both android and ios devices.
+This App is completely made up using react-native framework, So it should work on both android and ios devices.
+
 
 ### Backend: 
 1. To store exhibtions:- firebase realtime database
@@ -19,6 +20,8 @@ This App is completely made up using react native framework by expo-cli, So it s
 
 
 ## Steps to run the application
+Make sure that you have already installed node.js
+
 ### 1. Download 'expo app' in your phone. 
 ### 2. Download the zip file and extract it, move into the project directory
 ### 3. run below command, it will add node_modules folder to add all dependencies
